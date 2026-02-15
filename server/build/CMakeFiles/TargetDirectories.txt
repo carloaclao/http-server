@@ -1,3 +1,0 @@
-/Users/carlo/Workstation/http-server/server/build/CMakeFiles/http_server.dir
-/Users/carlo/Workstation/http-server/server/build/CMakeFiles/edit_cache.dir
-/Users/carlo/Workstation/http-server/server/build/CMakeFiles/rebuild_cache.dir
